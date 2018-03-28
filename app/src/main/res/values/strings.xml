@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="value_red" >0</string>
+    <string name="value_green">0</string>
+    <string name="value_blue">0</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="choose_a_color">Choose a color value</string>
+    <string name="save_button_word" >Save</string>
+    <string name="recall_button_word">Recall</string>
+    <string name="spinner_title">Spinner</string>
+</resources>
